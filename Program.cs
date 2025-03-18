@@ -12,7 +12,7 @@ MultiplyValueByTwo(ref number);
 int result;
 Sum(5, 20, out result);
 
-WriteTotals(2, 5, 6, 8.10, 25);
+WriteTotals(2, 5, 6, 8, 10, 25);
 
 void SayHi(string name)
 {
